@@ -1,1 +1,1 @@
-gcc -g main.c bubble_sort.c
+gcc -g main.c quick_sort.c
